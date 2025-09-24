@@ -1,0 +1,37 @@
+/* assets/style.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.header h1 {
+  margin: 0;
+  font-size: 30px;
+  color: #0a3d62;
+}
+.header .subtitle {
+  margin: 0;
+  color: #4b6584;
+}
+.avatar {
+  font-size: 34px;
+}
+
+/* Card-like container for analysis (Streamlit has its own styles) */
+.block {
+  border-radius: 12px;
+  padding: 12px;
+  background: #ffffff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* Progress bar color tweak (works in many Streamlit versions) */
+.stProgress > div > div > div > div {
+  background: linear-gradient(90deg, #4CAF50, #2ecc71);
+}
+
+/* Improve sidebar look */
+.reportview-container .sidebar .sidebar-content {
+  background: linear-gradient(#f7f9fc, #eef4ff);
+}

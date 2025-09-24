@@ -1,0 +1,21 @@
+{
+  "cold/flu": [
+    {"name": "Dr. A. Kumar", "specialty": "General Physician", "distance": "2 km", "phone": "+91-9876543210"},
+    {"name": "Dr. Mehta", "specialty": "Internal Medicine", "distance": "4 km", "phone": "+91-9123456780"}
+  ],
+  "asthma": [
+    {"name": "Dr. R. Sharma", "specialty": "Pulmonologist", "distance": "3 km", "phone": "+91-9988776655"}
+  ],
+  "heart disease": [
+    {"name": "Dr. P. Nair", "specialty": "Cardiologist", "distance": "5 km", "phone": "+91-9112233445"}
+  ],
+  "migraine": [
+    {"name": "Dr. K. Rao", "specialty": "Neurologist", "distance": "2.5 km", "phone": "+91-9001122334"}
+  ],
+  "gastritis": [
+    {"name": "Dr. S. Patel", "specialty": "Gastroenterologist", "distance": "3.2 km", "phone": "+91-9012345678"}
+  ],
+  "food poisoning": [
+    {"name": "Dr. R. Bansal", "specialty": "General Physician", "distance": "1.8 km", "phone": "+91-9898989898"}
+  ]
+}

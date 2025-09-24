@@ -1,0 +1,5 @@
+{
+  "er_keywords": ["chest pain", "difficulty breathing", "shortness of breath", "unconscious", "severe bleeding"],
+  "doctor_keywords": ["fever", "persistent cough", "high fever", "vomiting", "dizziness"],
+  "home_keywords": ["mild cough", "runny nose", "sore throat", "mild headache"]
+}
