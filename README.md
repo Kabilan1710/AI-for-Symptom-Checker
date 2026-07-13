@@ -42,7 +42,7 @@ Copy code
 - `backend/` — model loader, predictor, triage, and doctor finder.
 - `assets/style.css` — custom styling for a nicer UI.
 
-## To improve / next steps (for hackathon)
+## To improve / next steps
 - Use a larger, medically-vetted dataset (e.g., public symptom-condition datasets).
 - Replace static doctor JSON with Google Places API or FHIR-backed directory.
 - Add authentication & encrypted storage for personal profiles.
