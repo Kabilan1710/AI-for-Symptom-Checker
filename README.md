@@ -1,4 +1,4 @@
-# AI Symptom Checker — Hackathon Demo
+# AI Symptom Checker — Demo
 
 ## Features (demo)
 - Free-text symptom input + quick-pick symptoms
